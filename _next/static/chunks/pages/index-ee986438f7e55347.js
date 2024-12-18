@@ -321,7 +321,7 @@
         V = [
           {
             label: "Launch Dapp",
-            to: "https://app.TrigonAI.finance/#/pool",
+            to: "https://app.trigonai.vip/",
             isExternal: !0,
             className: "btn btn-solid",
           },
@@ -695,7 +695,7 @@
         },
         be = [
           {
-            label: "What are $Trigon tokenomics?",
+            label: "What are $APTAI tokenomics?",
             content: (0, i.jsxs)(i.Fragment, {
               children: [
                 "Initially 100M Trigon tokens were in existence. Liquidity has been deployed to the Uniswap protocol (original Uniswap LP token is\xa0",
@@ -712,21 +712,21 @@
             }),
           },
           {
-            label: "Is $Trigon token a utility token?",
+            label: "Is $APTAI token a utility token?",
             content: [
-              "Yes! $Trigon is a utility token as it is used to pay the fee for all Trigon AI limit orders and end-to-end usage of gasless mode (optional feature, coming very soon).",
+              "Yes! $APTAI is a utility token as it is used to pay the fee for all Trigon AI limit orders and end-to-end usage of gasless mode (optional feature, coming very soon).",
               "You can also use our swap aggregator, for this you only need to hold ETH in your wallet to cover gasfees. Again use normal or pro-mode to fill out your swap and click swap. Your swap is executed in a heartbeat!",
             ],
           },
           {
             label: "How do I use Trigon AI?",
             content: [
-              "Connect your wallet. Depending on whether you wish to use the swap or the limit order feature, you will need $ETH and $Trigon in your wallet. The interface is just as straightforward as using Uniswap for example, but with our limit order feature. Use normal or pro-mode to set your limit order and click trade. When the market conditions match your order, Trigon AI will execute the trade automatically.",
+              "Connect your wallet. Depending on whether you wish to use the swap or the limit order feature, you will need $ETH and $APTAI in your wallet. The interface is just as straightforward as using Uniswap for example, but with our limit order feature. Use normal or pro-mode to set your limit order and click trade. When the market conditions match your order, Trigon AI will execute the trade automatically.",
             ],
           },
           {
             label:
-              "Why and how much $Trigon do I have to pay a fee for limit orders?",
+              "Why and how much $APTAI do I have to pay a fee for limit orders?",
             content: (0, i.jsxs)(i.Fragment, {
               children: [
                 "The fee is dependent on the current gas fee. The maximum fee is calculated as follows: base fee * gas fee * protocol fee. As you can see, we don\u2019t take the amount that is being traded into consideration. This offers you the opportunity to trade at a very interesting, fixed price. Fixed, as in not depending on your amount traded. We refer to our\xa0",
@@ -749,15 +749,15 @@
             ],
           },
           {
-            label: "Do I have to own $Trigon tokens to use Trigon AI?",
+            label: "Do I have to own $APTAI tokens to use Trigon AI?",
             content: [
-              "Yes and no :) If you wish to use only the swap aggregator, you don\u2019t need to own $Trigon. However, if you wish to use our limit order feature, you will need $Trigon to cover the service fee.",
+              "Yes and no :) If you wish to use only the swap aggregator, you don\u2019t need to own $APTAI. However, if you wish to use our limit order feature, you will need $APTAI to cover the service fee.",
             ],
           },
           {
             label: "Why do I have to pay a fee for limit orders?",
             content: [
-              "TrigonAI requires a fee to cover the cost of the trade processor (ChainLink Keepers). When a trade is processed $Trigon is deducted from the protocol user\u2019s balance on the dapp and sent to the trade processor to cover the gas cost. Hence, the $Trigon tokens are circulating: DEX Liquidity Pool -> User -> TrigonAI Protocol -> DEX Liquidity Pool.",
+              "TrigonAI requires a fee to cover the cost of the trade processor (ChainLink Keepers). When a trade is processed $APTAI is deducted from the protocol user\u2019s balance on the dapp and sent to the trade processor to cover the gas cost. Hence, the $APTAI tokens are circulating: DEX Liquidity Pool -> User -> TrigonAI Protocol -> DEX Liquidity Pool.",
             ],
           },
           {
@@ -980,7 +980,7 @@
                 children: [
                   (0, i.jsx)(x(), {
                     passHref: !0,
-                    href: "https://app.TrigonAI.finance/#/pool",
+                    href: "https://app.trigonai.vip/",
                     children: (0, i.jsx)(l.E.a, {
                       className: "btn btn-solid",
                       target: "_blank",
@@ -1003,7 +1003,7 @@
                         transition: { duration: 0.3 },
                       },
                       whileTap: { scale: 0.9 },
-                      children: "Discover $Trigon",
+                      children: "Discover $APTAI",
                     }),
                   }),
                 ],
@@ -1342,15 +1342,15 @@
                         children: [
                           (0, i.jsx)("span", {
                             className: "card__title",
-                            children: "High utility $Trigon token",
+                            children: "High utility $APTAI token",
                           }),
                           (0, i.jsxs)("span", {
                             className: "card__content",
                             children: [
-                              "$Trigon is a utility token which is used for paying limit order fees and end-to-end usage of gasless mode (optional feature, coming very soon).",
+                              "$APTAI is a utility token which is used for paying limit order fees and end-to-end usage of gasless mode (optional feature, coming very soon).",
                               (0, i.jsx)("br", {}),
                               (0, i.jsx)("br", {}),
-                              "For every limit order, the TrigonAI protocol user only pays a service fee in $Trigon, of the amount traded.",
+                              "For every limit order, the TrigonAI protocol user only pays a service fee in $APTAI, of the amount traded.",
                             ],
                           }),
                         ],
@@ -1425,7 +1425,7 @@
                 goal: "Integrate cross-chain swap aggregation solution.",
               },
               { status: !1, goal: "Deploy FELO to BASE." },
-              { status: !1, goal: "Deploy $Trigon to BASE." },
+              { status: !1, goal: "Deploy $APTAI to BASE." },
             ],
           },
         ],
@@ -1446,7 +1446,7 @@
               (0, i.jsxs)("p", {
                 className: "buidl-plan",
                 children: [
-                  "TrigonAI DAO tasks are visible on Dework - the ultimate Web3 project management tool. All tasks can be undertaken by any web3 contributor, and incentivized in $Trigon.",
+                  "TrigonAI DAO tasks are visible on Dework - the ultimate Web3 project management tool. All tasks can be undertaken by any web3 contributor, and incentivized in $APTAI.",
                 ],
               }),
               (0, i.jsxs)("div", {
@@ -1505,16 +1505,16 @@
                   (0, i.jsxs)("div", {
                     className: "token__content",
                     children: [
-                      (0, i.jsx)("h3", { children: "What is $Trigon?" }),
+                      (0, i.jsx)("h3", { children: "What is $APTAI?" }),
                       (0, i.jsxs)("p", {
                         children: [
-                          "$Trigon is the utility and governance token of the TrigonAI protocol. It is a non-mintable ERC20 token deployed on Ethereum with a fixed total supply of 100 million tokens. The tokenomic model of $Trigon is deflationary by design since the tokens are being burnt.\xa0",
+                          "$APTAI is the utility and governance token of the TrigonAI protocol. It is a non-mintable ERC20 token deployed on Ethereum with a fixed total supply of 100 million tokens. The tokenomic model of $APTAI is deflationary by design since the tokens are being burnt.\xa0",
                           (0, i.jsx)("br", {}),
                           (0, i.jsx)("br", {}),
-                          "$Trigon is the token that pays the service fee to unlock the limit order feature of TrigonAI protocol. This means that by using Trigon tokens, you not only get access to cost efficient limit orders on the DEX, but you will also get LP fees on every trade thanks to the innovative approach to providing liquidity.",
+                          "$APTAI is the token that pays the service fee to unlock the limit order feature of TrigonAI protocol. This means that by using Trigon tokens, you not only get access to cost efficient limit orders on the DEX, but you will also get LP fees on every trade thanks to the innovative approach to providing liquidity.",
                           (0, i.jsx)("br", {}),
                           (0, i.jsx)("br", {}),
-                          "$Trigon token is also used as a governance token within the TrigonAI DAO.",
+                          "$APTAI token is also used as a governance token within the TrigonAI DAO.",
                           (0, i.jsx)("br", {}),
                           "TrigonAI DAO has the possibility to add more utilities for the Trigon token through governance proposals.",
                         ],
@@ -1551,11 +1551,11 @@
                               }),
                               (0, i.jsx)("p", {
                                 children:
-                                  "A buyback from the DAO treasury was performed at the end of Q1 2022, for a total value of 2 million $Trigon.",
+                                  "A buyback from the DAO treasury was performed at the end of Q1 2022, for a total value of 2 million $APTAI.",
                               }),
                               (0, i.jsx)("p", {
                                 children:
-                                  "LP ownership token is burned, meaning $Trigon is burned with every sell trade.",
+                                  "LP ownership token is burned, meaning $APTAI is burned with every sell trade.",
                               }),
                             ],
                           }),
@@ -1583,7 +1583,7 @@
                             className: "card__content",
                             children: (0, i.jsx)("p", {
                               children:
-                                "12.000.000 $Trigon have been locked on Unicrypt, or 12% of the total supply, with an average vesting of 2 years and 3 months. This vesting occurred in March 2022. Half of the vested tokens are allocated to the DAO treasury.",
+                                "12.000.000 $APTAI have been locked on Unicrypt, or 12% of the total supply, with an average vesting of 2 years and 3 months. This vesting occurred in March 2022. Half of the vested tokens are allocated to the DAO treasury.",
                             }),
                           }),
                         ],
@@ -1624,7 +1624,7 @@
                               }),
                               (0, i.jsx)("p", {
                                 children:
-                                  "7 million $Trigon tokens are kept in the DAO treasury, managed by the TrigonAI DAO.",
+                                  "7 million $APTAI tokens are kept in the DAO treasury, managed by the TrigonAI DAO.",
                               }),
                             ],
                           }),
@@ -1659,10 +1659,10 @@
                   (0, i.jsxs)("div", {
                     className: "token__content",
                     children: [
-                      (0, i.jsx)("h3", { children: "How to buy $Trigon?" }),
+                      (0, i.jsx)("h3", { children: "How to buy $APTAI?" }),
                       (0, i.jsxs)("p", {
                         children: [
-                          "The easiest way to purchase $Trigon, is by using TrigonAI Swap Aggregator: \xa0",
+                          "The easiest way to purchase $APTAI, is by using TrigonAI Swap Aggregator: \xa0",
                           (0, i.jsx)(x(), {
                             href: "https://app.TrigonAI.finance/#/swap?inputCurrency=ETH&outputCurrency=0x3af33bef05c2dcb3c7288b77fe1c8d2aeba4d789",
                             children: (0, i.jsx)("a", {
@@ -1671,7 +1671,7 @@
                               children: "launch the dapp",
                             }),
                           }),
-                          "\xa0 and connect your wallet. No $Trigon is required to use the swap aggregator. The swap aggregator is working on Ethereum mainnet, Optimism, Arbitrum and Polygon.",
+                          "\xa0 and connect your wallet. No $APTAI is required to use the swap aggregator. The swap aggregator is working on Ethereum mainnet, Optimism, Arbitrum and Polygon.",
                         ],
                       }),
                       (0, i.jsx)(x(), {
@@ -1686,7 +1686,7 @@
                             transition: { duration: 0.3 },
                           },
                           whileTap: { scale: 0.9 },
-                          children: "Buy $Trigon",
+                          children: "Buy $APTAI",
                         }),
                       }),
                     ],
