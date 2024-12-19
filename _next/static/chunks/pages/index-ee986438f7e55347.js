@@ -596,7 +596,7 @@
             },
           },
           {
-            href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xComingSoon&chain=mainnet",
+            href: "https://app.uniswap.org/swap?outputCurrency=0x601995C919310f03c75d1db730775F18b15Fa717&chain=ethereum",
             logo: {
               src: "./_next/static/media/uniswap.baf2cf2e.png",
               height: 240,
@@ -1676,7 +1676,7 @@
                       }),
                       (0, i.jsx)(x(), {
                         passHref: !0,
-                        href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xComingSoon&chain=mainnet",
+                        href: "https://app.uniswap.org/swap?outputCurrency=0x601995C919310f03c75d1db730775F18b15Fa717&chain=ethereum",
                         children: (0, i.jsx)(l.E.a, {
                           className: "btn btn-solid",
                           target: "_blank",
